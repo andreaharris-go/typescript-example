@@ -1,0 +1,15 @@
+{
+  "name": "typescript-example",
+  "version": "1.0.0",
+  "description": "ts basic ref.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: xxxx\" && exit 1",
+    "start": "lite-server"
+  },
+  "author": "duckdev84",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
